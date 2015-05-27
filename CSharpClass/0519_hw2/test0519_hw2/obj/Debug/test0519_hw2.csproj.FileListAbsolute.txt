@@ -1,0 +1,9 @@
+c:\users\ms6930\documents\visual studio 2013\Projects\test0519_hw2\test0519_hw2\bin\Debug\test0519_hw2.exe.config
+c:\users\ms6930\documents\visual studio 2013\Projects\test0519_hw2\test0519_hw2\bin\Debug\test0519_hw2.exe
+c:\users\ms6930\documents\visual studio 2013\Projects\test0519_hw2\test0519_hw2\bin\Debug\test0519_hw2.pdb
+c:\users\ms6930\documents\visual studio 2013\Projects\test0519_hw2\test0519_hw2\obj\Debug\test0519_hw2.csprojResolveAssemblyReference.cache
+c:\users\ms6930\documents\visual studio 2013\Projects\test0519_hw2\test0519_hw2\obj\Debug\test0519_hw2.Form1.resources
+c:\users\ms6930\documents\visual studio 2013\Projects\test0519_hw2\test0519_hw2\obj\Debug\test0519_hw2.Properties.Resources.resources
+c:\users\ms6930\documents\visual studio 2013\Projects\test0519_hw2\test0519_hw2\obj\Debug\test0519_hw2.csproj.GenerateResource.Cache
+c:\users\ms6930\documents\visual studio 2013\Projects\test0519_hw2\test0519_hw2\obj\Debug\test0519_hw2.exe
+c:\users\ms6930\documents\visual studio 2013\Projects\test0519_hw2\test0519_hw2\obj\Debug\test0519_hw2.pdb

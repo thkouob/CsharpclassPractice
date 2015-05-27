@@ -1,0 +1,9 @@
+c:\users\ms6930\documents\visual studio 2013\Projects\Hw0506_ch1\Hw0506_ch1\bin\Debug\Hw0506_ch1.exe.config
+c:\users\ms6930\documents\visual studio 2013\Projects\Hw0506_ch1\Hw0506_ch1\bin\Debug\Hw0506_ch1.exe
+c:\users\ms6930\documents\visual studio 2013\Projects\Hw0506_ch1\Hw0506_ch1\bin\Debug\Hw0506_ch1.pdb
+c:\users\ms6930\documents\visual studio 2013\Projects\Hw0506_ch1\Hw0506_ch1\obj\Debug\Hw0506_ch1.csprojResolveAssemblyReference.cache
+c:\users\ms6930\documents\visual studio 2013\Projects\Hw0506_ch1\Hw0506_ch1\obj\Debug\Hw0506_ch1.Form1.resources
+c:\users\ms6930\documents\visual studio 2013\Projects\Hw0506_ch1\Hw0506_ch1\obj\Debug\Hw0506_ch1.Properties.Resources.resources
+c:\users\ms6930\documents\visual studio 2013\Projects\Hw0506_ch1\Hw0506_ch1\obj\Debug\Hw0506_ch1.csproj.GenerateResource.Cache
+c:\users\ms6930\documents\visual studio 2013\Projects\Hw0506_ch1\Hw0506_ch1\obj\Debug\Hw0506_ch1.exe
+c:\users\ms6930\documents\visual studio 2013\Projects\Hw0506_ch1\Hw0506_ch1\obj\Debug\Hw0506_ch1.pdb
